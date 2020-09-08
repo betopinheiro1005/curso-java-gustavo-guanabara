@@ -1,2 +1,2 @@
-# curso-java-gustavo-guanabara
-Exemplos do curso Java - Gustavo Guanabara
+# curso-java-cev
+Exemplos do curso Java - Curso em Vídeo - Gustavo Guanabara
